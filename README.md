@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ![REACT](https://img.shields.io/badge/REACT-00f0f0?style=for-the-badge&logo=REACT&labelColor=black)
 ![CSS](https://img.shields.io/badge/CSS-f00000?style=for-the-badge&logo=CSS&logoColor=f00000&labelColor=black)
-![HTML](https://img.shields.io/badge/HTML-#E34F26?style=for-the-badge&logo=html5&logoColor=#E34F26&labelColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)
 
 
 
