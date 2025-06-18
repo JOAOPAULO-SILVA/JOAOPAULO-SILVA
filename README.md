@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-00f0f0?style=for-the-badge&logo=REACT&labelColor=black)
+![CSS](https://img.shields.io/badge/CSS-f00000?style=for-the-badge&logo=CSS&logoColor=f00000&labelColor=black)
+![HTML](https://img.shields.io/badge/HTML-030Af0?style=for-the-badge&logo=html5&logoColor=030Af0&labelColor=black)
+
 
 
 
