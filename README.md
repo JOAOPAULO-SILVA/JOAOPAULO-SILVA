@@ -1,17 +1,11 @@
-## Olá, sou o JP
+# Olá, sou o JP
 Sou apaixonado por progamação e tenho vontade de trabalhar com jogos.
 
 ---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
-
-<a href="https://www.instagram.com/silva.joao_p/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-# 📊 Stats:
+### 📊 Stats:
  <img src="https://github-readme-stats.vercel.app/api?username=JOAOPAULO-SILVA&show_icons=true&theme=tokyonight" width="400px" />
 
 <!--
@@ -33,11 +27,19 @@ Here are some ideas to get you started:
 ---
 
 
-![REACT](https://img.shields.io/badge/REACT-00f0f0?style=for-the-badge&logo=REACT&labelColor=black)
-![CSS](https://img.shields.io/badge/CSS-f00000?style=for-the-badge&logo=CSS&logoColor=f00000&labelColor=black)
+LINGUAGENS:
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=CSS&logoColor=663399&labelColor=black)
+![javaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=F7DF1E&labelColor=black)
+![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&labelColor=black)
+![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=4584b6&labelColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=%23F05032&labelColor=black)
 
 
+REDES SOCIAIS:
+
+![Instagram](https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23FF0069&labelColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fsilva.joao_p%2F)
 
 
- <a href="https://www.instagram.com/silva.joao_p/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
