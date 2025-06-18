@@ -1,5 +1,6 @@
 # Olá, sou o JP
-Sou apaixonado por progamação e tenho vontade de trabalhar com jogos.
+Faço sistemas de informação na UFPA
+Sou apaixonado por progamação e pretendo ser um grande desenvolvedor
 
 ---
 
@@ -40,6 +41,7 @@ LINGUAGENS:
 
 REDES SOCIAIS:
 
-![Instagram](https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23FF0069&labelColor=black&link=https%3A%2F%2Fwww.instagram.com%2Fsilva.joao_p%2F)
-
+<a href=https://www.instagram.com/silva.joao_p/ ><img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23FF0069?style=for-the-badge&logo=instagram&logoColor=%23FF0069&labelColor=black"></a>
+<a href="">![Linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge)
+</a>
 
