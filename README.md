@@ -1,3 +1,16 @@
+## Olá, sou o JP
+Sou apaixonado por progamação e tenho vontade de trabalhar com jogos.
+
+---
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
+
+<a href="https://www.instagram.com/silva.joao_p/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 # 📊 Stats:
  <img src="https://github-readme-stats.vercel.app/api?username=JOAOPAULO-SILVA&show_icons=true&theme=tokyonight" width="400px" />
 
