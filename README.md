@@ -36,7 +36,9 @@ LINGUAGENS:
 ![REACT](https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&labelColor=black)
 ![Python](https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=4584b6&labelColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C&labelColor=black)
+![JAVA](https://img.shields.io/badge/-JAVA-ed8b00?style=for-the-badge&logo=java)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=GIT&logoColor=%23F05032&labelColor=black)
+
 
 
 REDES SOCIAIS:
